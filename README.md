@@ -4,4 +4,4 @@ La meta de este repositorio fue creado para cumplir con la tarea asignada por el
 
 ## Contenido
 
-El repositorio contiene un archivo html y uno css.
+El repositorio contiene archivos en .txt y .cpp
